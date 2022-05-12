@@ -1,9 +1,10 @@
-app_id: "073026d5-cc74-4247-a1a6-ab438a3314e2"
-app_secret: "d1e80bd3-838c-4aae-984e-7c076b9d2b91"
+app_id: "3c4f7ba8-066f-4118-ae17-9f926843f3ee"
+app_secret: "o_b8Q~zVlRE6AXcTOyNCOj9ehUmE6JJErMhJ5dzm"
 redirect: "http://localhost:8000/landingpage"
 scopes:
-  - user.read
+  - user.read.all
   - mailboxsettings.read
   - calendars.readwrite
   - https://management.azure.com/user_impersonation
 authority: "https://login.microsoftonline.com/05f00303-5336-44d6-863e-165186fcbdef"
+
